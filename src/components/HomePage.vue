@@ -89,7 +89,7 @@ export default {
   <div class="flex">
     <!--Left side-bar -->
     <div
-      class="flex flex-col w-[320px] border-r-[1px] border-gray-110 pl-14 pr-4"
+      class="flex flex-col w-[320px] border-r-[1px] border-gray-110 pl-14 pr-4 fixed"
     >
       <button
         class="
@@ -145,7 +145,7 @@ export default {
         border-r-[1px] border-gray-110
         pl-4
         pr-4
-        
+        ml-[320px]
       "
     >
       <p class="text-lg font-bold sticky top-0 bg-white h-12 opacity-95 pt-3"><span class="opacity-100">Home</span></p>
@@ -355,7 +355,7 @@ export default {
             More...
           </p>
         </div>
-        <p class="text-sm text-gray-500">&copy; Twitter, Inc.</p>
+        <p class="text-sm text-gray-500">&copy;2022 Twitter, Inc.</p>
       </div>
     </div>
   </div>
