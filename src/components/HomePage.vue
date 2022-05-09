@@ -135,7 +135,9 @@ export default {
           content:
             "Running an NGO especially an upcoming one is so strenuous and burdensome. I tried it and failed three times.However I am not giving up anytime soon.You don't need money, you need to grow thick skin and metal brains.Here is what I have learnt so far. Thread...",
           comment: "557",
-          retweets: "4,245",
+          re
+          
+          s: "4,245",
           likes: "20.6K",
           thread: true,
           promoted: true,
@@ -327,8 +329,8 @@ export default {
         </button>
         <button
           class="
-            bg-sky-700
-            hover:bg-sky-800
+            bg-sky-500/50
+            hover:bg-sky-500
             xl:hidden
             rounded-full
             mt-3
