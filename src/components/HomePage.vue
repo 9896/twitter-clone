@@ -165,7 +165,7 @@ export default {
         tweet3: {
           userName: "Andrew Kibe",
           handle: "@kibeandy . Apr 21",
-          profilePicture: "https://drive.google.com/uc?export=view&id=",
+          profilePicture: "https://drive.google.com/uc?export=view&id=1hngila3uL6aeGMlimDlfXF8wsFZBmFaV",
           imagewithLink: false,
           image: false,
           content:
