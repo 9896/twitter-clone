@@ -327,8 +327,8 @@ export default {
         </button>
         <button
           class="
-            bg-sky-500/75
-            hover:bg-sky-500
+            bg-sky-700
+            hover:bg-sky-800
             xl:hidden
             rounded-full
             mt-3
