@@ -129,7 +129,7 @@ export default {
         tweet1: {
           userName: "Eric",
           handle: "@amerix . May 5, 2022",
-          profilePicture: "public/amerix.jpg",
+          profilePicture: "/src/assets/amerix.jpg",
           imagewithLink: false,
           image: false,
           content:
