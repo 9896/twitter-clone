@@ -129,7 +129,7 @@ export default {
         tweet1: {
           userName: "Eric",
           handle: "@amerix . May 5, 2022",
-          profilePicture: "../assets/amerix.jpg",
+          profilePicture: "src/assets/amerix.jpg",
           imagewithLink: false,
           image: false,
           content:
@@ -140,14 +140,14 @@ export default {
           thread: true,
           promoted: true,
           tweetImageLinked: false,
-          tweetImage: "../assets/amerixbs.jpg",
+          tweetImage: "src/assets/amerixbs.jpg",
           topic: "Men's Health",
           verified: true,
         },
         tweet2: {
           userName: "Elon Musk",
           handle: "@elonmusk . 23h",
-          profilePicture: "../assets/elon.jpg",
+          profilePicture: "src/assets/elon.jpg",
           imagewithLink: false,
           image: false,
           content:
@@ -158,14 +158,14 @@ export default {
           thread: false,
           promoted: false,
           tweetImageLinked: false,
-          tweetImage: "../assets/elonwonder.jpg",
+          tweetImage: "src/assets/elonwonder.jpg",
           topic: "Technology",
           verified: true,
         },
         tweet3: {
           userName: "Andrew Kibe",
           handle: "@kibeandy . Apr 21",
-          profilePicture: "../assets/kibe.jpg",
+          profilePicture: "src/assets/kibe.jpg",
           imagewithLink: false,
           image: false,
           content:
@@ -176,14 +176,14 @@ export default {
           thread: false,
           promoted: true,
           tweetImageLinked: false,
-          tweetImage: "../assets/kibethoughts.jpg",
+          tweetImage: "src/assets/kibethoughts.jpg",
           topic: "Men's Health",
           verified: true,
         },
         tweet4: {
           userName: "Elon Musk",
           handle: "@elonmusk . 23h",
-          profilePicture: "../assets/elon.jpg",
+          profilePicture: "src/assets/elon.jpg",
           imagewithLink: false,
           image: false,
           content:
@@ -194,7 +194,7 @@ export default {
           thread: false,
           promoted: false,
           tweetImageLinked: false,
-          tweetImage: "../assets/elontwitter.jpg",
+          tweetImage: "src/assets/elontwitter.jpg",
           topic: "Technology",
           verified: true,
           siteUrl: "cnn.com",
