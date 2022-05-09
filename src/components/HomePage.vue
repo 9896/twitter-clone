@@ -594,7 +594,7 @@ export default {
                 <p class="text-gray-500/95">{{ tweet.siteData }}</p>
               </div>
             </div>
-            <div class="flex mb-1 justify-between">
+            <div class="flex mb-1 justify-between w-[85%]">
               <div class="mt-2 flex items-center group justify-between">
                 <i
                   class="
