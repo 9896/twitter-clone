@@ -129,7 +129,7 @@ export default {
         tweet1: {
           userName: "Eric",
           handle: "@amerix . May 5, 2022",
-          profilePicture: "https://drive.google.com/uc?export=view&id=1ahdFXUiY-rtfcEMh1i68AigmnCUN99ID",
+          profilePicture: "https://drive.google.com/uc?export=view&id=19mF3UUsPkmydaWuG_k-waHUJYcdt11hr",
           imagewithLink: false,
           image: false,
           content:
@@ -140,14 +140,14 @@ export default {
           thread: true,
           promoted: true,
           tweetImageLinked: false,
-          tweetImage: "/assets/amerixbs.jpg",
+          tweetImage: "https://drive.google.com/uc?export=view&id=1ahdFXUiY-rtfcEMh1i68AigmnCUN99ID",
           topic: "Men's Health",
           verified: true,
         },
         tweet2: {
           userName: "Elon Musk",
           handle: "@elonmusk . 23h",
-          profilePicture: "/src/assets/elon.jpg",
+          profilePicture: "https://drive.google.com/uc?export=view&id=1tIv_jx2Rul11kN27Rj7ZBtXWabTAsAEs",
           imagewithLink: false,
           image: false,
           content:
@@ -158,14 +158,14 @@ export default {
           thread: false,
           promoted: false,
           tweetImageLinked: false,
-          tweetImage: "/src/assets/elonwonder.jpg",
+          tweetImage: "https://drive.google.com/uc?export=view&id=1tfe-Y7aJY9rYR6oF3gw6kJHw8oGqfmnJ",
           topic: "Technology",
           verified: true,
         },
         tweet3: {
           userName: "Andrew Kibe",
           handle: "@kibeandy . Apr 21",
-          profilePicture: "/src/assets/kibe.jpg",
+          profilePicture: "https://drive.google.com/uc?export=view&id=",
           imagewithLink: false,
           image: false,
           content:
@@ -176,14 +176,14 @@ export default {
           thread: false,
           promoted: true,
           tweetImageLinked: false,
-          tweetImage: "/src/assets/kibethoughts.jpg",
+          tweetImage: "https://drive.google.com/uc?export=view&id=1sQ5ChYKmtFxMgJhhVVWyv0ngJ1h_3Gvg",
           topic: "Men's Health",
           verified: true,
         },
         tweet4: {
           userName: "Elon Musk",
           handle: "@elonmusk . 23h",
-          profilePicture: "/src/assets/elon.jpg",
+          profilePicture: "https://drive.google.com/uc?export=view&id=1tIv_jx2Rul11kN27Rj7ZBtXWabTAsAEs",
           imagewithLink: false,
           image: false,
           content:
@@ -194,7 +194,7 @@ export default {
           thread: false,
           promoted: false,
           tweetImageLinked: false,
-          tweetImage: "/src/assets/elontwitter.jpg",
+          tweetImage: "https://drive.google.com/uc?export=view&id=1xL-a-8vlSGHwnngZdjm-WuVyrAzSq6St",
           topic: "Technology",
           verified: true,
           siteUrl: "cnn.com",
