@@ -140,7 +140,7 @@ export default {
           thread: true,
           promoted: true,
           tweetImageLinked: false,
-          tweetImage: "/src/assets/amerixbs.jpg",
+          tweetImage: "/assets/amerixbs.jpg",
           topic: "Men's Health",
           verified: true,
         },
