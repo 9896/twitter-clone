@@ -129,7 +129,7 @@ export default {
         tweet1: {
           userName: "Eric",
           handle: "@amerix . May 5, 2022",
-          profilePicture: "src/assets/amerix.jpg",
+          profilePicture: "public/amerix.jpg",
           imagewithLink: false,
           image: false,
           content:
@@ -140,14 +140,14 @@ export default {
           thread: true,
           promoted: true,
           tweetImageLinked: false,
-          tweetImage: "src/assets/amerixbs.jpg",
+          tweetImage: "public/amerixbs.jpg",
           topic: "Men's Health",
           verified: true,
         },
         tweet2: {
           userName: "Elon Musk",
           handle: "@elonmusk . 23h",
-          profilePicture: "src/assets/elon.jpg",
+          profilePicture: "public/elon.jpg",
           imagewithLink: false,
           image: false,
           content:
@@ -158,14 +158,14 @@ export default {
           thread: false,
           promoted: false,
           tweetImageLinked: false,
-          tweetImage: "src/assets/elonwonder.jpg",
+          tweetImage: "public/elonwonder.jpg",
           topic: "Technology",
           verified: true,
         },
         tweet3: {
           userName: "Andrew Kibe",
           handle: "@kibeandy . Apr 21",
-          profilePicture: "src/assets/kibe.jpg",
+          profilePicture: "public/kibe.jpg",
           imagewithLink: false,
           image: false,
           content:
@@ -176,14 +176,14 @@ export default {
           thread: false,
           promoted: true,
           tweetImageLinked: false,
-          tweetImage: "src/assets/kibethoughts.jpg",
+          tweetImage: "public/kibethoughts.jpg",
           topic: "Men's Health",
           verified: true,
         },
         tweet4: {
           userName: "Elon Musk",
           handle: "@elonmusk . 23h",
-          profilePicture: "src/assets/elon.jpg",
+          profilePicture: "public/elon.jpg",
           imagewithLink: false,
           image: false,
           content:
@@ -194,7 +194,7 @@ export default {
           thread: false,
           promoted: false,
           tweetImageLinked: false,
-          tweetImage: "src/assets/elontwitter.jpg",
+          tweetImage: "public/elontwitter.jpg",
           topic: "Technology",
           verified: true,
           siteUrl: "cnn.com",
