@@ -129,7 +129,7 @@ export default {
         tweet1: {
           userName: "Eric",
           handle: "@amerix . May 5, 2022",
-          profilePicture: "src/assets/amerix.jpg",
+          profilePicture: "amerix.jpg",
           imagewithLink: false,
           image: false,
           content:
@@ -327,8 +327,8 @@ export default {
         </button>
         <button
           class="
-            bg-sky-700
-            hover:bg-sky-800
+            bg-sky-500/50
+            hover:bg-sky-500
             xl:hidden
             rounded-full
             mt-3
