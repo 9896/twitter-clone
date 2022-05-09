@@ -129,7 +129,7 @@ export default {
         tweet1: {
           userName: "Eric",
           handle: "@amerix . May 5, 2022",
-          profilePicture: "src/assets/amerix.jpg",
+          profilePicture: "../assets/amerix.jpg",
           imagewithLink: false,
           image: false,
           content:
@@ -140,14 +140,14 @@ export default {
           thread: true,
           promoted: true,
           tweetImageLinked: false,
-          tweetImage: "src/assets/amerixbs.jpg",
+          tweetImage: "../assets/amerixbs.jpg",
           topic: "Men's Health",
           verified: true,
         },
         tweet2: {
           userName: "Elon Musk",
           handle: "@elonmusk . 23h",
-          profilePicture: "src/assets/elon.jpg",
+          profilePicture: "../assets/elon.jpg",
           imagewithLink: false,
           image: false,
           content:
@@ -158,14 +158,14 @@ export default {
           thread: false,
           promoted: false,
           tweetImageLinked: false,
-          tweetImage: "src/assets/elonwonder.jpg",
+          tweetImage: "../assets/elonwonder.jpg",
           topic: "Technology",
           verified: true,
         },
         tweet3: {
           userName: "Andrew Kibe",
           handle: "@kibeandy . Apr 21",
-          profilePicture: "src/assets/kibe.jpg",
+          profilePicture: "../assets/kibe.jpg",
           imagewithLink: false,
           image: false,
           content:
@@ -176,14 +176,14 @@ export default {
           thread: false,
           promoted: true,
           tweetImageLinked: false,
-          tweetImage: "src/assets/kibethoughts.jpg",
+          tweetImage: "../assets/kibethoughts.jpg",
           topic: "Men's Health",
           verified: true,
         },
         tweet4: {
           userName: "Elon Musk",
           handle: "@elonmusk . 23h",
-          profilePicture: "src/assets/elon.jpg",
+          profilePicture: "../assets/elon.jpg",
           imagewithLink: false,
           image: false,
           content:
@@ -194,7 +194,7 @@ export default {
           thread: false,
           promoted: false,
           tweetImageLinked: false,
-          tweetImage: "src/assets/elontwitter.jpg",
+          tweetImage: "../assets/elontwitter.jpg",
           topic: "Technology",
           verified: true,
           siteUrl: "cnn.com",
@@ -452,7 +452,7 @@ export default {
                 rounded-full
                 hover:cursor-pointer
                 p-1
-                plgit -2
+                pl-2
                 border-b border-gray-100
                 w-[55%]
               "
