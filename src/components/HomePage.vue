@@ -129,7 +129,7 @@ export default {
         tweet1: {
           userName: "Eric",
           handle: "@amerix . May 5, 2022",
-          profilePicture: "https://drive.google.com/file/d/1ahdFXUiY-rtfcEMh1i68AigmnCUN99ID/view?usp=sharing",
+          profilePicture: "https://drive.google.com/uc?export=view&id=1ahdFXUiY-rtfcEMh1i68AigmnCUN99ID",
           imagewithLink: false,
           image: false,
           content:
