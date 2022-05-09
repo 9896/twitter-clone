@@ -4,37 +4,51 @@ export default {
     return {
       sideBar: {
         Home: {
+          iconActive:
+            '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><path d="M22.58 7.35L12.475 1.897c-.297-.16-.654-.16-.95 0L1.425 7.35c-.486.264-.667.87-.405 1.356.18.335.525.525.88.525.16 0 .324-.038.475-.12l.734-.396 1.59 11.25c.216 1.214 1.31 2.062 2.66 2.062h9.282c1.35 0 2.444-.848 2.662-2.088l1.588-11.225.737.398c.485.263 1.092.082 1.354-.404.263-.486.08-1.093-.404-1.355zM12 15.435c-1.795 0-3.25-1.455-3.25-3.25s1.455-3.25 3.25-3.25 3.25 1.455 3.25 3.25-1.455 3.25-3.25 3.25z"></path></g></svg>',
           icon: '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><path d="M22.46 7.57L12.357 2.115c-.223-.12-.49-.12-.713 0L1.543 7.57c-.364.197-.5.652-.303 1.017.135.25.394.393.66.393.12 0 .243-.03.356-.09l.815-.44L4.7 19.963c.214 1.215 1.308 2.062 2.658 2.062h9.282c1.352 0 2.445-.848 2.663-2.087l1.626-11.49.818.442c.364.193.82.06 1.017-.304.196-.363.06-.818-.304-1.016zm-4.638 12.133c-.107.606-.703.822-1.18.822H7.36c-.48 0-1.075-.216-1.178-.798L4.48 7.69 12 3.628l7.522 4.06-1.7 12.015z"></path><path d="M8.22 12.184c0 2.084 1.695 3.78 3.78 3.78s3.78-1.696 3.78-3.78-1.695-3.78-3.78-3.78-3.78 1.696-3.78 3.78zm6.06 0c0 1.258-1.022 2.28-2.28 2.28s-2.28-1.022-2.28-2.28 1.022-2.28 2.28-2.28 2.28 1.022 2.28 2.28z"></path></g></svg>',
           name: "Home",
         },
         Explore: {
+          iconActive:
+            '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><path d="M20.585 9.468c.66 0 1.2-.538 1.2-1.2 0-.662-.54-1.2-1.2-1.2h-3.22l.31-3.547c.027-.318-.07-.63-.277-.875-.206-.245-.495-.396-.822-.425-.65-.035-1.235.432-1.293 1.093l-.326 3.754H9.9l.308-3.545c.06-.658-.43-1.242-1.097-1.302-.665-.05-1.235.43-1.293 1.092l-.325 3.754h-3.33c-.663 0-1.2.538-1.2 1.2 0 .662.538 1.2 1.2 1.2h3.122l-.44 5.064H3.416c-.662 0-1.2.54-1.2 1.2s.538 1.202 1.2 1.202h3.22l-.31 3.548c-.057.657.432 1.24 1.09 1.3l.106.005c.626 0 1.14-.472 1.195-1.098l.327-3.753H14.1l-.308 3.544c-.06.658.43 1.242 1.09 1.302l.106.005c.617 0 1.142-.482 1.195-1.098l.325-3.753h3.33c.66 0 1.2-.54 1.2-1.2s-.54-1.202-1.2-1.202h-3.122l.44-5.064h3.43zm-5.838 0l-.44 5.063H9.253l.44-5.062h5.055z"></path></g></svg>',
           icon: '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><path d="M21.53 20.47l-3.66-3.66C19.195 15.24 20 13.214 20 11c0-4.97-4.03-9-9-9s-9 4.03-9 9 4.03 9 9 9c2.215 0 4.24-.804 5.808-2.13l3.66 3.66c.147.146.34.22.53.22s.385-.073.53-.22c.295-.293.295-.767.002-1.06zM3.5 11c0-4.135 3.365-7.5 7.5-7.5s7.5 3.365 7.5 7.5-3.365 7.5-7.5 7.5-7.5-3.365-7.5-7.5z"></path></g></svg>',
           name: "Explore",
         },
         Notifications: {
+          iconActive:
+            '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><path d="M21.697 16.468c-.02-.016-2.14-1.64-2.103-6.03.02-2.533-.812-4.782-2.347-6.334-1.375-1.393-3.237-2.164-5.242-2.172h-.013c-2.004.008-3.866.78-5.242 2.172-1.534 1.553-2.367 3.802-2.346 6.333.037 4.332-2.02 5.967-2.102 6.03-.26.194-.366.53-.265.838s.39.515.713.515h4.494c.1 2.544 2.188 4.587 4.756 4.587s4.655-2.043 4.756-4.587h4.494c.324 0 .61-.208.712-.515s-.005-.644-.265-.837zM12 20.408c-1.466 0-2.657-1.147-2.756-2.588h5.512c-.1 1.44-1.29 2.587-2.756 2.587z"></path></g></svg>',
           icon: '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><path d="M21.697 16.468c-.02-.016-2.14-1.64-2.103-6.03.02-2.532-.812-4.782-2.347-6.335C15.872 2.71 14.01 1.94 12.005 1.93h-.013c-2.004.01-3.866.78-5.242 2.174-1.534 1.553-2.368 3.802-2.346 6.334.037 4.33-2.02 5.967-2.102 6.03-.26.193-.366.53-.265.838.102.308.39.515.712.515h4.92c.102 2.31 1.997 4.16 4.33 4.16s4.226-1.85 4.327-4.16h4.922c.322 0 .61-.206.71-.514.103-.307-.003-.645-.263-.838zM12 20.478c-1.505 0-2.73-1.177-2.828-2.658h5.656c-.1 1.48-1.323 2.66-2.828 2.66zM4.38 16.32c.74-1.132 1.548-3.028 1.524-5.896-.018-2.16.644-3.982 1.913-5.267C8.91 4.05 10.397 3.437 12 3.43c1.603.008 3.087.62 4.18 1.728 1.27 1.285 1.933 3.106 1.915 5.267-.024 2.868.785 4.765 1.525 5.896H4.38z"></path></g></svg>',
           name: "Notifications",
         },
         Messages: {
+          iconActive:
+            '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><path d="M11.55 12.082c.273.182.627.182.9 0L22 5.716V5.5c0-1.24-1.01-2.25-2.25-2.25H4.25C3.01 3.25 2 4.26 2 5.5v.197l9.55 6.385z"></path><path d="M13.26 13.295c-.383.255-.82.382-1.26.382s-.877-.127-1.26-.383L2 7.452v11.67c0 1.24 1.01 2.25 2.25 2.25h15.5c1.24 0 2.25-1.01 2.25-2.25V7.47l-8.74 5.823z"></path></g></svg>',
           icon: '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><path d="M19.25 3.018H4.75C3.233 3.018 2 4.252 2 5.77v12.495c0 1.518 1.233 2.753 2.75 2.753h14.5c1.517 0 2.75-1.235 2.75-2.753V5.77c0-1.518-1.233-2.752-2.75-2.752zm-14.5 1.5h14.5c.69 0 1.25.56 1.25 1.25v.714l-8.05 5.367c-.273.18-.626.182-.9-.002L3.5 6.482v-.714c0-.69.56-1.25 1.25-1.25zm14.5 14.998H4.75c-.69 0-1.25-.56-1.25-1.25V8.24l7.24 4.83c.383.256.822.384 1.26.384.44 0 .877-.128 1.26-.383l7.24-4.83v10.022c0 .69-.56 1.25-1.25 1.25z"></path></g></svg>',
           name: "Messages",
         },
         Bookmarks: {
+          iconActive:
+            '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><path d="M19.9 23.5c-.2 0-.3 0-.4-.1L12 17.9l-7.5 5.4c-.2.2-.5.2-.8.1-.2-.1-.4-.4-.4-.7V5.6c0-1.2 1-2.2 2.2-2.2h12.8c1.2 0 2.2 1 2.2 2.2v17.1c0 .3-.2.5-.4.7 0 .1-.1.1-.2.1z"></path></g></svg>',
           icon: '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><path d="M19.9 23.5c-.157 0-.312-.05-.442-.144L12 17.928l-7.458 5.43c-.228.164-.53.19-.782.06-.25-.127-.41-.385-.41-.667V5.6c0-1.24 1.01-2.25 2.25-2.25h12.798c1.24 0 2.25 1.01 2.25 2.25v17.15c0 .282-.158.54-.41.668-.106.055-.223.082-.34.082zM12 16.25c.155 0 .31.048.44.144l6.71 4.883V5.6c0-.412-.337-.75-.75-.75H5.6c-.413 0-.75.338-.75.75v15.677l6.71-4.883c.13-.096.285-.144.44-.144z"></path></g></svg>',
           name: "Bookmarks",
         },
         Lists: {
+          iconActive:
+            '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><path d="M19.75 2H4.25C3.013 2 2 3.013 2 4.25v15.5C2 20.987 3.013 22 4.25 22h15.5c1.237 0 2.25-1.013 2.25-2.25V4.25C22 3.013 20.987 2 19.75 2zM11 16.75H7c-.414 0-.75-.336-.75-.75s.336-.75.75-.75h4c.414 0 .75.336.75.75s-.336.75-.75.75zm6-4H7c-.414 0-.75-.336-.75-.75s.336-.75.75-.75h10c.414 0 .75.336.75.75s-.336.75-.75.75zm0-4H7c-.414 0-.75-.336-.75-.75s.336-.75.75-.75h10c.414 0 .75.336.75.75s-.336.75-.75.75z"></path></g></svg>',
           icon: '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><path d="M19.75 22H4.25C3.01 22 2 20.99 2 19.75V4.25C2 3.01 3.01 2 4.25 2h15.5C20.99 2 22 3.01 22 4.25v15.5c0 1.24-1.01 2.25-2.25 2.25zM4.25 3.5c-.414 0-.75.337-.75.75v15.5c0 .413.336.75.75.75h15.5c.414 0 .75-.337.75-.75V4.25c0-.413-.336-.75-.75-.75H4.25z"></path><path d="M17 8.64H7c-.414 0-.75-.337-.75-.75s.336-.75.75-.75h10c.414 0 .75.335.75.75s-.336.75-.75.75zm0 4.11H7c-.414 0-.75-.336-.75-.75s.336-.75.75-.75h10c.414 0 .75.336.75.75s-.336.75-.75.75zm-5 4.11H7c-.414 0-.75-.335-.75-.75s.336-.75.75-.75h5c.414 0 .75.337.75.75s-.336.75-.75.75z"></path></g></svg>',
           name: "Lists",
         },
         Profile: {
+          iconActive:
+            '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><path d="M12.225 12.165c-1.356 0-2.872-.15-3.84-1.256-.814-.93-1.077-2.368-.805-4.392.38-2.826 2.116-4.513 4.646-4.513s4.267 1.687 4.646 4.513c.272 2.024.008 3.46-.806 4.392-.97 1.106-2.485 1.255-3.84 1.255zm5.849 9.85H6.376c-.663 0-1.25-.28-1.65-.786-.422-.534-.576-1.27-.41-1.968.834-3.53 4.086-5.997 7.908-5.997s7.074 2.466 7.91 5.997c.164.698.01 1.434-.412 1.967-.4.505-.985.785-1.648.785z"></path></g></svg>',
           icon: '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><path d="M12 11.816c1.355 0 2.872-.15 3.84-1.256.814-.93 1.078-2.368.806-4.392-.38-2.825-2.117-4.512-4.646-4.512S7.734 3.343 7.354 6.17c-.272 2.022-.008 3.46.806 4.39.968 1.107 2.485 1.256 3.84 1.256zM8.84 6.368c.162-1.2.787-3.212 3.16-3.212s2.998 2.013 3.16 3.212c.207 1.55.057 2.627-.45 3.205-.455.52-1.266.743-2.71.743s-2.255-.223-2.71-.743c-.507-.578-.657-1.656-.45-3.205zm11.44 12.868c-.877-3.526-4.282-5.99-8.28-5.99s-7.403 2.464-8.28 5.99c-.172.692-.028 1.4.395 1.94.408.52 1.04.82 1.733.82h12.304c.693 0 1.325-.3 1.733-.82.424-.54.567-1.247.394-1.94zm-1.576 1.016c-.126.16-.316.246-.552.246H5.848c-.235 0-.426-.085-.552-.246-.137-.174-.18-.412-.12-.654.71-2.855 3.517-4.85 6.824-4.85s6.114 1.994 6.824 4.85c.06.242.017.48-.12.654z"></path></g></svg>',
           name: "Profile",
         },
-        more: {
-          icon: '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><circle cx="17" cy="12" r="1.5"></circle><circle cx="12" cy="12" r="1.5"></circle><circle cx="7" cy="12" r="1.5"></circle><path d="M12 22.75C6.072 22.75 1.25 17.928 1.25 12S6.072 1.25 12 1.25 22.75 6.072 22.75 12 17.928 22.75 12 22.75zm0-20C6.9 2.75 2.75 6.9 2.75 12S6.9 21.25 12 21.25s9.25-4.15 9.25-9.25S17.1 2.75 12 2.75z"></path></g></svg>',
-          name: "More",
-        },
+      },
+      more: {
+        icon: '<svg viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><circle cx="17" cy="12" r="1.5"></circle><circle cx="12" cy="12" r="1.5"></circle><circle cx="7" cy="12" r="1.5"></circle><path d="M12 22.75C6.072 22.75 1.25 17.928 1.25 12S6.072 1.25 12 1.25 22.75 6.072 22.75 12 17.928 22.75 12 22.75zm0-20C6.9 2.75 2.75 6.9 2.75 12S6.9 21.25 12 21.25s9.25-4.15 9.25-9.25S17.1 2.75 12 2.75z"></path></g></svg>',
+        name: "More",
       },
       threeDots:
         '<svg class="fill-gray-500 hover:fill-blue-500" viewBox="0 0 24 24" aria-hidden="true" class="r-18jsvk2 r-4qtqp9 r-yyyyoo r-1xvli5t r-dnmrzs r-bnwqim r-1plcrui r-lrvibr"><g><circle cx="5" cy="12" r="2"></circle><circle cx="12" cy="12" r="2"></circle><circle cx="19" cy="12" r="2"></circle></g></svg>',
@@ -190,6 +204,11 @@ export default {
             "Some of the nation's biggest brands including Coca-Cola, Disney and Kraft are facing calls..",
         },
       },
+      mobileTweet:
+        '<svg  class="fill-white" viewBox="0 0 24 24" aria-hidden="true" class="r-jwli3a r-4qtqp9 r-yyyyoo r-1472mwg r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-lrsllp"><g><path d="M8.8 7.2H5.6V3.9c0-.4-.3-.8-.8-.8s-.7.4-.7.8v3.3H.8c-.4 0-.8.3-.8.8s.3.8.8.8h3.3v3.3c0 .4.3.8.8.8s.8-.3.8-.8V8.7H9c.4 0 .8-.3.8-.8s-.5-.7-1-.7zm15-4.9v-.1h-.1c-.1 0-9.2 1.2-14.4 11.7-3.8 7.6-3.6 9.9-3.3 9.9.3.1 3.4-6.5 6.7-9.2 5.2-1.1 6.6-3.6 6.6-3.6s-1.5.2-2.1.2c-.8 0-1.4-.2-1.7-.3 1.3-1.2 2.4-1.5 3.5-1.7.9-.2 1.8-.4 3-1.2 2.2-1.6 1.9-5.5 1.8-5.7z"></path></g></svg>',
+      globe:
+        '<svg class="fill-sky-500" viewBox="0 0 24 24" aria-hidden="true" class="r-1cvl2hr r-4qtqp9 r-yyyyoo r-10ptun7 r-1d4mawv r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-1janqcz"><g><path d="M12 1.5C6.2 1.5 1.5 6.2 1.5 12S6.2 22.5 12 22.5 22.5 17.8 22.5 12 17.8 1.5 12 1.5zM9.047 5.9c-.878.484-1.22.574-1.486.858-.263.284-.663 1.597-.84 1.712-.177.115-1.462.154-1.462.154s2.148 1.674 2.853 1.832c.706.158 2.43-.21 2.77-.142.342.07 2.116 1.67 2.324 2.074.208.404.166 1.748-.038 1.944-.204.196-1.183 1.09-1.393 1.39-.21.3-1.894 4.078-2.094 4.08-.2 0-.62-.564-.73-.848-.11-.284-.427-4.012-.59-4.263-.163-.25-1.126-.82-1.276-1.026-.15-.207-.552-1.387-.527-1.617.024-.23.492-1.007.374-1.214-.117-.207-2.207-1.033-2.61-1.18-.403-.145-.983-.332-.983-.332 1.13-3.652 4.515-6.318 8.52-6.38 0 0 .125-.018.186.14.11.286.256 1.078.092 1.345-.143.23-2.21.99-3.088 1.474zm11.144 8.24c-.21-.383-1.222-2.35-1.593-2.684-.23-.208-2.2-.912-2.55-1.09-.352-.177-1.258-.997-1.267-1.213-.01-.216 1.115-1.204 1.15-1.524.056-.49-1.882-1.835-1.897-2.054-.015-.22.147-.66.31-.81.403-.36 3.19.04 3.556.36 2 1.757 3.168 4.126 3.168 6.873 0 .776-.18 1.912-.282 2.18-.08.21-.443.232-.595-.04z"></path></g></svg>',
+      share: false,
     };
   },
   methods: {
@@ -202,94 +221,184 @@ export default {
 
       return "w-[" + img.width + "px]";
     },
+    newShare() {
+      this.share = true;
+      console.log(this.share);
+      return this.share;
+    },
   },
-  computed: {
-    // newWidth: function () {
-    //   let img = new Image();
-    //   img.onload = () => {
-    //     console.log("From computed The dimensions are " + img.width);
-    //   };
-    //   img.src = this.tweetImage;
-    //   //return this.tweetImage
-    //   return "w-[" + img.width + "px]";
-    // },
-  },
+  computed: {},
   mounted() {
     this.tweetImageWidth = this.getImageWidth();
-    console.log("From mounted: " + this.tweetImageWidth);
+    console.log("From mounted share value: " + this.share);
     //console.log("From mounted using computed width is: " + this.newWidth);
   },
 };
 </script>
 
 <template>
-  <div class="flex container mx-auto relative">
+  <div class="flex container mx-auto relative w-full h-screen">
     <!--Left side-bar -->
-    <div
-      class="
-        flex flex-col
-        w-[275px]
-        border-r-[1px] border-gray-100
-        pl-[18px]
-        pr-4
-        fixed
-      "
-    >
-      <button
-        class="
-          flex
-          justify-center
-          hover:bg-blue-100
-          w-12
-          h-12
-          rounded-full
-          mt-1
-          mb-1
-        "
-      >
-        <img src="../assets/twitter.png" alt="" class="h-15 w-16 p-2" />
-      </button>
-      <button
-        :key="menu.index"
-        v-for="menu in sideBar"
-        class="rounded-full hover:bg-gray-200 focus:font-bold relative"
-      >
-        <!-- <div
+    <div class="hidden sm:block xl:w-[21.5%]">
+      <div class="flex flex-col border-r-[1px] border-gray-100 pl-[18px] pr-4">
+        <button
+          class="
+            flex
+            justify-center
+            hover:bg-blue-100
+            w-12
+            h-12
+            rounded-full
+            mt-1
+            mb-1
+          "
+        >
+          <img src="../assets/twitter.png" alt="" class="h-15 w-16 p-2" />
+        </button>
+        <button
+          :key="menu.index"
+          v-for="menu in sideBar"
+          class="
+            group
+            rounded-full
+            hover:bg-gray-200
+            focus:font-bold
+            relative
+            hover:cursor-pointer
+            w-12
+            xl:w-full
+            flex
+            p-3
+          "
+        >
+          <!-- <div
           class="bg-blue-500 absolute top-0 right-0 w-2 h-2 rounded-full"
         ></div> -->
-        <div class="flex p-3">
-          <div class="h-[26.5px] w-[26.5px] mr-5 box-content">
-            <i v-html="menu.icon" class="h-[26.5px] w-[26.5px]"></i>
-          </div>
-          <p class="text-xl active:semi-bold font-sans">{{ menu.name }}</p>
-        </div>
-      </button>
-      <button class="bg-sky-500/75 hover:bg-sky-500 rounded-full w-full mt-3">
-        <p class="text-white font-semibold text-lg p-3">Tweet</p>
-      </button>
 
-      <button class="mt-4 mb-4 hover:bg-gray-200 rounded-full">
-        <div class="flex items-center p-2">
+          <div class="h-[26.5px] w-[26.5px] xl:mr-5 box-content">
+            <i
+              v-html="menu.icon"
+              class="h-[26.5px] w-[26.5px] group-focus:hidden"
+            ></i>
+            <i
+              v-html="menu.iconActive"
+              class="hidden group-focus:block h-[26.5px] w-[26.5px]"
+            ></i>
+          </div>
+          <p class="hidden xl:block text-xl active:semi-bold font-sans">
+            {{ menu.name }}
+          </p>
+        </button>
+        <button
+          class="
+            rounded-full
+            hover:bg-gray-200
+            focus:font-bold
+            relative
+            hover:cursor-pointer
+            w-12
+            xl:w-full
+            flex
+            p-3
+          "
+        >
+          <div class="h-[26.5px] w-[26.5px] xl:mr-5 box-content">
+            <i
+              v-html="more.icon"
+              class="h-[26.5px] w-[26.5px] group-focus:hidden"
+            ></i>
+          </div>
+          <p class="hidden xl:block text-xl active:semi-bold font-sans">
+            {{ more.name }}
+          </p>
+        </button>
+        <button
+          class="
+            hidden
+            xl:block
+            bg-sky-500/75
+            hover:bg-sky-500
+            rounded-full
+            w-full
+            mt-3
+          "
+        >
+          <p class="text-white font-semibold text-lg p-3">Tweet</p>
+        </button>
+        <button
+          class="
+            bg-sky-500/75
+            hover:bg-sky-500
+            xl:hidden
+            rounded-full
+            mt-3
+            h-[52px]
+            w-[52px]
+            p-2
+          "
+        >
+          <i v-html="mobileTweet" class="h-6 w-6"></i>
+        </button>
+
+        <button
+          class="
+            xl:w-full
+            w-12
+            h-12
+            mt-4
+            mb-4
+            hover:bg-gray-200
+            rounded-full
+            flex
+            items-center
+            p-2
+            box-content
+          "
+        >
           <img
             src="../assets/Cartoonify.png"
             alt=""
             class="rounded-full h-10 w-10 mr-3"
           />
 
-          <div>
+          <div class="hidden xl:block">
             <p class="font-semibold whitespace-nowrap">Israel Immanuel..</p>
             <p class="text-sm text-gray-500">@IsraelImmnauel7</p>
           </div>
 
-          <i v-html="threeDots" class="h-5 w-5 ml-3"></i>
-        </div>
-      </button>
+          <i class="hidden xl:block h-5 w-5 ml-3" v-html="threeDots"></i>
+        </button>
+      </div>
     </div>
-
     <!-- Middle content area -->
     <div
-      class="flex flex-col w-[595px] border-r-[1px] border-gray-100 ml-[275px]"
+      class="
+        flex flex-col
+        xl:w-[48.5%]
+        md:w-[56.5%]
+        border-r-[1px] border-gray-100
+        overflow-y-scroll
+        w-full
+      "
     >
+      <button
+        class="
+          bg-sky-500/75
+          hover:bg-sky-500
+          sm:hidden
+          rounded-full
+          mt-3
+          h-[52px]
+          w-[52px]
+          p-2
+          fixed
+          bottom-3
+          right-5
+        "
+      >
+        <i v-html="mobileTweet" class="h-6 w-6"></i>
+      </button>
+      <!-- Navbar -->
       <div
         class="
           text-lg
@@ -312,53 +421,92 @@ export default {
           <i v-html="navStar" class="h-5 w-5"></i>
         </div>
       </div>
-      <div class="mt-5 flex px-4">
-        <img
-          src="../assets/Cartoonify.png"
-          alt=""
-          class="rounded-full h-12 w-12 mr-3"
-        />
-        <p class="text-xl w-full overflow-y-hidden">
-          <textarea
-            name=""
-            id=""
-            cols="30"
-            rows="3"
-            class="
-              w-full
-              resize-none
-              border-b border-gray-100
-              focus:outline-none
-            "
-            placeholder="What's happening?"
-          ></textarea>
-        </p>
-      </div>
-      <div class="flex justify-between items-center pr-4">
-        <div class="flex ml-[74px] my-2">
-          <p
-            :key="index"
-            v-for="(icon, index) in textAreaIcons"
-            class="
-              h-5
-              w-5
-              mr-1
-              hover:bg-blue-100/50
-              p-2
-              rounded-full
-              cursor-pointer
-              box-content
-            "
-            v-html="icon"
-          ></p>
+      <!-- Tweet Form -->
+      <div class="hidden sm:block">
+        <div class="mt-5 flex px-4">
+          <img
+            src="../assets/Cartoonify.png"
+            alt=""
+            class="rounded-full h-12 w-12 mr-3"
+          />
+          <div class="">
+            <textarea
+              @click="newShare"
+              name=""
+              id=""
+              cols="30"
+              rows="2"
+              class="
+                resize-none
+                text-xl
+                focus:outline-none
+                w-full
+                overflow-y-hidden
+              "
+              placeholder="What's happening?"
+            ></textarea>
+            <div
+              v-if="share"
+              class="
+                hover:bg-sky-100
+                rounded-full
+                hover:cursor-pointer
+                p-1
+                border-b border-gray-100
+                w-[60%]
+              "
+            >
+              <p
+                class="
+                  items-center
+                  text-sky-500 text-sm
+                  font-bold
+                  flex
+                  focus:bg-sky-100
+                "
+              >
+                <i v-html="globe" class="w-4 h-4 mr-1"></i>
+                <span>Everyone can reply</span>
+              </p>
+            </div>
+          </div>
         </div>
-        <button
-          class="bg-sky-300 rounded-full my-2 py-1 px-5 font-bold text-white"
-        >
-          Tweet
-        </button>
       </div>
-
+      <!-- Tweet Form icons -->
+      <div class="hidden sm:block">
+        <div class="flex justify-between items-center pr-4">
+          <div class="flex ml-[74px] my-2">
+            <p
+              :key="index"
+              v-for="(icon, index) in textAreaIcons"
+              class="
+                h-5
+                w-5
+                mr-1
+                hover:bg-blue-100/50
+                p-2
+                rounded-full
+                cursor-pointer
+                box-content
+              "
+              v-html="icon"
+            ></p>
+          </div>
+          <button
+            v-if="!share"
+            class="bg-sky-300 rounded-full my-2 py-1 px-5 font-bold text-white"
+          >
+            Tweet
+          </button>
+          <button
+            v-else
+            class="bg-sky-500 rounded-full my-2 py-1 px-5 font-bold text-white"
+          >
+            Tweet
+          </button>
+        </div>
+      </div>
+      <!-- show # tweets bar -->
       <div
         class="
           flex
@@ -373,144 +521,147 @@ export default {
         <p>Show 76 Tweets</p>
       </div>
 
+      <!-- tweets -->
       <div
         :key="index"
         v-for="(tweet, index) in tweets"
-        class="border-y border-gray-100 hover:bg-gray-300/20 cursor-pointer"
+        class="
+          border-y border-gray-100
+          hover:bg-gray-300/20
+          cursor-pointer
+          flex-wrap
+          w-full
+        "
       >
+        <!-- Tweet topic header. responsive -->
         <div class="flex items-center ml-12 mt-2">
           <i class="h-[16px] w-[16px] mr-3" v-html="chatIcon"></i>
           <p class="text-sm font-bold text-gray-500/95">
             {{ tweet.topic }} . <span class="text-sky-500/75">See more</span>
           </p>
         </div>
-        <div class="flex">
-          <div class="flex pl-4">
-            <div class="shrink-0 w-12">
-              <img
-                :src="tweet.profilePicture"
-                alt=""
-                class="rounded-full h-12 w-12"
-              />
-              <div v-if="tweet.thread" class="ml-6 h-full border-l-2"></div>
-            </div>
-            <div class="pl-3">
-              <div class="flex items-start">
-                <p class="font-semibold whitespace-nowrap mr-1">
-                  {{ tweet.userName }}
-                </p>
-                <p
-                  class="h-[16.41px] w-[16.41px] mt-1 mr-1"
-                  v-html="verifiedIcon"
-                ></p>
-                <p class="text-gray-500">{{ tweet.handle }}</p>
-              </div>
-              <p class="basis-1/3 text-black/75 mb-3 text-base flex">
-                {{ tweet.content }}
+
+        <!-- Tweet. responsive-->
+        <div class="flex justify-between">
+          <div class="w-12 flex-none ml-4 rounded-full">
+            <img
+              :src="tweet.profilePicture"
+              alt=""
+              class="rounded-full h-12 w-12"
+            />
+            <!--Thread line -->
+            <div v-if="tweet.thread" class="ml-6 h-full border-l-2"></div>
+          </div>
+          <!-- tweet -->
+          <div class="pl-3">
+            <div class="flex items-start">
+              <p class="font-semibold mr-1">
+                {{ tweet.userName }}
               </p>
-              <div v-if="tweet.tweetImage || tweet.tweetImageLinked">
-                <img
-                  v-if="tweet.tweetImageLinked"
-                  class="rounded-t-3xl"
-                  :src="tweet.tweetImageLinked"
-                  alt=""
-                />
-                <img
-                  v-else
-                  class="rounded-3xl"
-                  :src="tweet.tweetImage"
-                  alt=""
-                />
-                <div
-                  v-if="tweet.tweetImageLinked"
+              <p
+                class="h-[16.41px] w-[16.41px] mt-1 mr-1"
+                v-html="verifiedIcon"
+              ></p>
+              <p class="text-gray-500">{{ tweet.handle }}</p>
+            </div>
+            <p class="text-black/75 mb-3 flex">
+              {{ tweet.content }}
+            </p>
+            <div v-if="tweet.tweetImage || tweet.tweetImageLinked">
+              <img
+                v-if="tweet.tweetImageLinked"
+                class="rounded-t-3xl"
+                :src="tweet.tweetImageLinked"
+                alt=""
+              />
+              <img v-else class="rounded-3xl" :src="tweet.tweetImage" alt="" />
+              <div
+                v-if="tweet.tweetImageLinked"
+                class="
+                  bg-g-white
+                  rounded-b-2xl
+                  px-3
+                  py-2
+                  border border-gray-300/80
+                "
+                :class="tweetImageWidth"
+              >
+                <p class="text-gray-500/80">{{ tweet.siteUrl }}</p>
+                <p class="text-black/80">{{ tweet.siteHeading }}</p>
+                <p class="text-gray-500/95">{{ tweet.siteData }}</p>
+              </div>
+            </div>
+            <div class="flex mb-1 justify-between">
+              <div class="mt-2 flex items-center group justify-between">
+                <i
                   class="
-                    bg-g-white
-                    rounded-b-2xl
-                    px-3
-                    py-2
-                    border border-gray-300/80
+                    group-hover:bg-blue-100
+                    h-[34.75px]
+                    w-[34.75px]
+                    rounded-full
+                    p-2
                   "
-                  :class="tweetImageWidth"
-                >
-                  <p class="text-gray-500/80">{{ tweet.siteUrl }}</p>
-                  <p class="text-black/80">{{ tweet.siteHeading }}</p>
-                  <p class="text-gray-500/95">{{ tweet.siteData }}</p>
-                </div>
+                  v-html="tweetIcons.comment"
+                ></i>
+                <p class="text-sm text-gray-500 group-hover:text-blue-500">
+                  {{ tweet.comment }}
+                </p>
               </div>
-              <div class="flex mb-1">
-                <div class="mr-[70px] mt-2 flex items-center group">
-                  <i
-                    class="
-                      group-hover:bg-blue-100
-                      h-[34.75px]
-                      w-[34.75px]
-                      rounded-full
-                      p-2
-                      mr-1
-                    "
-                    v-html="tweetIcons.comment"
-                  ></i>
-                  <p class="text-sm text-gray-500 group-hover:text-blue-500">
-                    {{ tweet.comment }}
-                  </p>
-                </div>
-                <div class="mr-[70px] mt-2 flex items-center group">
-                  <i
-                    class="
-                      h-[34.75px]
-                      w-[34.75px]
-                      rounded-full
-                      group-hover:bg-green-100
-                      p-2
-                      mr-1
-                    "
-                    v-html="tweetIcons.retweet"
-                  ></i>
-                  <p class="text-sm text-gray-500 group-hover:text-green-500">
-                    {{ tweet.retweets }}
-                  </p>
-                </div>
-                <div class="mr-[70px] mt-2 flex items-center group">
-                  <i
-                    class="
-                      h-[34.75px]
-                      w-[34.75px]
-                      rounded-full
-                      group-hover:bg-pink-100
-                      p-2
-                      mr-1
-                    "
-                    v-html="tweetIcons.like"
-                  ></i>
-                  <p class="text-sm text-gray-500 group-hover:text-pink-500">
-                    {{ tweet.likes }}
-                  </p>
-                </div>
-                <div class="mr-[32px] mt-2 flex items-center group">
-                  <i
-                    class="
-                      h-[34.75px]
-                      w-[34.75px]
-                      rounded-full
-                      group-hover:bg-blue-100
-                      p-2
-                      mr-1
-                    "
-                    v-html="tweetIcons.share"
-                  ></i>
-                </div>
+              <div class="mt-2 flex items-center group justify-between">
+                <i
+                  class="
+                    h-[34.75px]
+                    w-[34.75px]
+                    rounded-full
+                    group-hover:bg-green-100
+                    p-2
+                  "
+                  v-html="tweetIcons.retweet"
+                ></i>
+                <p class="text-sm text-gray-500 group-hover:text-green-500">
+                  {{ tweet.retweets }}
+                </p>
               </div>
-              <div v-if="tweet.promoted" class="h-4 flex items-center">
-                <i class="mr-1 w-[15px] h-[15px]" v-html="promotedIcon"></i>
-                <p class="text-sm text-black/75">Promoted</p>
+              <div class="mt-2 flex items-center group justify-between">
+                <i
+                  class="
+                    h-[34.75px]
+                    w-[34.75px]
+                    rounded-full
+                    group-hover:bg-pink-100
+                    p-2
+                  "
+                  v-html="tweetIcons.like"
+                ></i>
+                <p class="text-sm text-gray-500 group-hover:text-pink-500">
+                  {{ tweet.likes }}
+                </p>
               </div>
+              <div class="mt-2 flex items-center group">
+                <i
+                  class="
+                    h-[34.75px]
+                    w-[34.75px]
+                    rounded-full
+                    group-hover:bg-blue-100
+                    p-2
+                    mr-1
+                  "
+                  v-html="tweetIcons.share"
+                ></i>
+              </div>
+            </div>
+            <div v-if="tweet.promoted" class="h-4 flex items-center">
+              <i class="mr-1 w-[15px] h-[15px]" v-html="promotedIcon"></i>
+              <p class="text-sm text-black/75">Promoted</p>
             </div>
           </div>
+          <!-- ThreeDots -->
           <div
             class="
               h-full
-              w-8
-              mr-2
+              w-[]
+              mr-
               hover:bg-blue-100/50
               rounded-full
               flex
@@ -521,30 +672,40 @@ export default {
             <i v-html="threeDots" class="h-[15.75px] w-[15.75px]"></i>
           </div>
         </div>
-        <div v-if="tweet.thread" class="flex hover:bg-gray-300/30 py-2">
-          <div class="w-full items-center flex pl-6">
-            <div class="w-12">
-              <img
-                :src="tweet.profilePicture"
-                alt=""
-                class="rounded-full h-8 w-8"
-              />
-              <p></p>
-            </div>
-            <div class="pl-3">
-              <div class="flex items-start">
-                <p class="text-sky-500">Show this thread</p>
-              </div>
-            </div>
+        <!-- Tweet thread area -->
+        <div
+          v-if="tweet.thread"
+          class="w-full items-center flex pl-6 hover:bg-gray-300/30 py-2"
+        >
+          <div class="w-12">
+            <img
+              :src="tweet.profilePicture"
+              alt=""
+              class="rounded-full h-8 w-8"
+            />
+          </div>
+          <div class="pl-3">
+            <p class="text-sky-500">Show this thread</p>
           </div>
         </div>
       </div>
     </div>
 
     <!-- Right side-bar -->
-    <div class="pl-10 pr-4 mt-2 w-[395px] overflow-y-auto">
-      <div class="w-full relative bg-white">
-        <div class="fixed top-0 bg-white w-full pb-2 pt-1">
+    <div
+      class="
+        hidden
+        lg:block
+        pl-10
+        pr-4
+        mt-2
+        xl:w-[30%]
+        md:w-[44.5%]
+        overflow-y-scroll
+      "
+    >
+      <div class="bg-white">
+        <div class="fixed top-0 bg-white pb-2 pt-1 w-[30%] lg:w-full">
           <p class="text-gray-400 absolute top-[16px] left-4">
             <svg
               width="24"
@@ -739,4 +900,8 @@ export default {
 </template>
 
 <style scoped>
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
 </style>
