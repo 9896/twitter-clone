@@ -452,8 +452,9 @@ export default {
                 rounded-full
                 hover:cursor-pointer
                 p-1
+                plgit -2
                 border-b border-gray-100
-                w-[60%]
+                w-[55%]
               "
             >
               <p
